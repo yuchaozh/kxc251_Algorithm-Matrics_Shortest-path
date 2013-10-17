@@ -1,0 +1,28 @@
+﻿生成启动时间为 2011/12/18 20:02:15。
+     1>项目“C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\assignment2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\assignment2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\软件\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt assignment2.cpp map.cpp
+         map.cpp
+         assignment2.cpp
+         正在生成代码...
+       Link:
+         D:\软件\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\Debug\assignment2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\assignment2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\Debug\assignment2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\Debug\assignment2.lib" /MACHINE:X86 Debug\assignment2.obj
+         Debug\connection.obj
+         Debug\dijkstra.obj
+         Debug\list.obj
+         Debug\map.obj
+         Debug\town.obj
+         LINK : 没有找到 C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\Debug\assignment2.exe 或上一个增量链接没有生成它；正在执行完全链接
+         assignment2.vcxproj -> C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\Debug\assignment2.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\Debug\assignment2.exe;#1" /manifest Debug\assignment2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\assignment2.unsuccessfulbuild”。
+         正在对“Debug\assignment2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Vance\Documents\Visual Studio 2010\Projects\ass2\assignment2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.88
